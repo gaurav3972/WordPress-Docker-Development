@@ -6,7 +6,7 @@ Ensure the following are installed on your system:
 
 - [Docker Engine](https://docs.docker.com/get-docker/)
 - Internet connection (to pull Docker images)
-
+![](https://github.com/gaurav3972/WordPress-Docker-Development/blob/main/images/0%20(2).png)
 ---
 
 ## ⚙️ Step-by-Step Instructions
